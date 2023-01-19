@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Sansita&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Sansita&family=Viga&display=swap');
 * {
     margin:0;
     padding: 0;
@@ -8,10 +7,11 @@
 
  body {
     font-family: Sansita, sans-serif;
+    background-color: #FAF2ED;
  }
 
  h1, h2 {
-    font-family: Bebas-Neue, sans-serif;
+    font-family: Viga, sans-serif;
     text-transform: uppercase;
  }
 
@@ -32,6 +32,7 @@
 
 #header h2 {
     word-spacing: 10px;
+    font-size: 200%;
 }
 
 
@@ -56,10 +57,37 @@
 
  #gingerbread {
     display: flex;
-    justify-content: center; 
-    align-items: center;
-    padding: 10px;
-    height: 50px;
-   
+   flex-direction: column;
+   align-items: center; 
  }
 
+ #gingerbread img{
+   height:600px;
+   width: 90%;
+ }
+
+ hr {
+   height: 20px;
+ }
+
+ #welcome-box {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   height: 150px;
+   padding: 20px;
+   color: white;
+   background-color:#B67F5F;
+ }
+
+ #welcome-box h2, p {
+   text-align: center;
+   width: 80%;
+ }
+
+ #welcome-box p {
+   font-size: 150%
+ }
+ 
+ 
