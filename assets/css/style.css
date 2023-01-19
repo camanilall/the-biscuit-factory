@@ -75,10 +75,11 @@
    justify-content: center;
    flex-direction: column;
    align-items: center;
-   height: 150px;
-   padding: 20px;
    color: white;
    background-color:#B67F5F;
+   height: 100px;
+   width: 90%;
+   padding: 40px;
  }
 
  #welcome-box h2, p {
@@ -90,4 +91,7 @@
    font-size: 150%
  }
  
- 
+ #container {
+   display: flex;
+   justify-content: center;
+ }
