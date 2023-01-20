@@ -90,6 +90,10 @@
  #welcome-box p {
    font-size: 150%;
  }
+
+ #welcome-box h2{
+  margin-bottom: 10px;
+ }
  
  #container {
    display: flex;
@@ -119,9 +123,31 @@
   background-color: blue;
 }
 
-.text {
-  text-align: center;
-  need to change the height of the div to make smaller, get a smaller picture and use padding to push content down
+#opening-times-header > h2 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#list-align {
+  text-align: left;
+  margin-left: 180px;
+  font-size: 130%;
+}
+
+.list-spacing {
+margin-bottom: 20px;
+}
+
+#table-header > h2 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+#table {
+  width: auto;
+  margin-right: 250px;
+  margin-left: auto;
+  font-size: 110%;
 }
 
 #coffee {
