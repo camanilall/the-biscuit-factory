@@ -15,7 +15,7 @@
     text-transform: uppercase;
  }
 
- /* Creating Logo and Header Styles*/
+ /* Creating Logo and Header Styles on Homepage */
 
 #header {
     display: flex;
@@ -62,11 +62,11 @@
  }
 
  #gingerbread img{
-   height:600px;
-   width: 90%;
+   height: 575px;
+   width: 80%;
  }
 
- hr {
+ .divider {
    height: 20px;
  }
 
@@ -78,7 +78,7 @@
    color: white;
    background-color:#B67F5F;
    height: 100px;
-   width: 90%;
+   width: 80%;
    padding: 40px;
  }
 
@@ -88,10 +88,50 @@
  }
 
  #welcome-box p {
-   font-size: 150%
+   font-size: 150%;
  }
  
  #container {
    display: flex;
    justify-content: center;
+ }
+
+ /* #welcome-divider {
+  border: 500px;
+ } */
+
+ /* Styling images and opening times banner on Homepage */
+ 
+#container-coffee {
+  display: flex;
+  justify-content: row;
+  text-align: center;
+  row
+ 
+}
+
+#opening-times {
+  display: flex;
+  flex: 50%;
+  padding: 10px;
+  justify-content: column;
+  flex-direction: column;
+  background-color: blue;
+}
+
+.text {
+  text-align: center;
+  need to change the height of the div to make smaller, get a smaller picture and use padding to push content down
+}
+
+#coffee {
+  display: flex;
+  width: 50%;
+  padding: 10px;
+}
+
+ #coffee img {
+  width: 70%;
+  height: 600px;
+  margin-left: 120px;
  }
