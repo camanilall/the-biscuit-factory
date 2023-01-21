@@ -32,12 +32,12 @@
 
 #header h2 {
     word-spacing: 10px;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 
  #logo{
-    height: 200px;
+    height: 130px;
     padding: 20px;
  }
  
@@ -62,7 +62,7 @@
  }
 
  #gingerbread img {
-   height: 475px;
+   height: 490px;
    width: 86%;
  }
 
