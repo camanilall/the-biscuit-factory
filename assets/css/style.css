@@ -156,16 +156,39 @@
 margin-bottom: 20px;
 }
 
+#table-container {
+  width: 90%;
+  margin-left: 40px;
+  background-color: #B67F5F;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 #table-header > h2 {
-  margin-top: 40px;
-  margin-bottom: 30px;
+  padding: 20px;
+  text-align: center;
+  color: white;
 }
 
 #table {
-  width: auto;
-  margin-right: 250px;
+  width: 80%;
+  margin-right: auto;
   margin-left: auto;
   font-size: 110%;
+  padding: 20px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+.darker-background {
+  background-color: #dfc56d;
+}
+
+.lighter-background {
+  background-color: #FAF2ED;
 }
 
 #coffee {
