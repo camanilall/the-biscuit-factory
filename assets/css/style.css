@@ -145,7 +145,6 @@
   display: flex;
   justify-content: row;
   text-align: center;
-  row
 }
 
 #opening-times {
@@ -179,11 +178,9 @@ ul{
 #coffee {
   display: flex;
   flex: 50%;
-  /* padding: 5px; */
 }
 
  #coffee img {
-  /* width: 8%; */
   height: 600px;
   width: 100%;
   margin-left: 50px;
@@ -191,10 +188,9 @@ ul{
  }
 
 #table-container {
-  width: 90%;
-  margin-left: 40px;
+  width: 85.5%;
+  margin-left: 110px;
   background-color: #B67F5F;
-  margin-bottom: 20px;
   margin-top: 20px;
 }
 
@@ -229,3 +225,64 @@ th, td {
   background-color: #FAF2ED;
 }
 
+#reviews {
+  background-color: #dfc56d;
+  width: 86%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#reviews-header > h2 {
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.review-content {
+  font-size: 20px;
+}
+
+.review-padding {
+  padding: 10px;
+}
+
+#review-margin {
+  margin-bottom: 40px;
+  font-size: 20px;
+  font-family: Viga, sans-serif;
+  text-transform: uppercase;
+  
+}
+
+#review-align {
+  text-align: right;
+}
+
+#review-author {
+  font-size: 20px;
+  font-family: Viga, sans-serif;
+  text-transform: uppercase;
+}
+
+#review-content-and-text {
+  padding: 10px;
+}
+
+#maps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#maps iframe {
+width: 86.5%;
+height: 400px;
+}
+
+#footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
