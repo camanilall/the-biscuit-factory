@@ -62,7 +62,7 @@
  }
 
  #gingerbread img {
-   height: 400px;
+   height: 475px;
    width: 86%;
  }
 
@@ -328,6 +328,7 @@ height: 400px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  font-size: 130%;
 }
 
 #cake-header h2 {
@@ -336,6 +337,8 @@ height: 400px;
 
 #cake-header p {
   padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 
 #cake-header a {
@@ -347,8 +350,10 @@ height: 400px;
   background-color: #c79d33;
   width: 40%;
   margin-bottom: 20px;
-  color: black;
+  border: 2px solid black;
 }
+
+
 
 
 #table-container-cake {
