@@ -314,7 +314,60 @@ height: 400px;
 }
 
 /* Styling the Cakes page */
+#cake-header-container {
+  display: flex;
+  justify-content: center;
+  background-color: #B67F5F;
+  width: 70%;
+  margin-left: 230px;
+  color: white;
+}
 
+#cake-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#cake-header h2 {
+  padding: 20px;
+}
+
+#cake-header p {
+  padding: 10px;
+}
+
+#cake-header a {
+  text-decoration: none;
+  color: white;
+}
+
+#cake-button {
+  background-color: #c79d33;
+  width: 40%;
+  margin-bottom: 20px;
+  color: black;
+}
+
+
+#table-container-cake {
+  display: flex;
+  justify-content: center;
+  background-color: #FAF2ED;
+}
+
+#table-align-cake {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cakes-image {
+  height: 500px;
+  width: 100%;
+}
 
 
 
