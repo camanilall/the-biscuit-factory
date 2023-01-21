@@ -62,28 +62,45 @@
  }
 
  #gingerbread img {
-   height: 490px;
+   height: 400px;
    width: 86%;
  }
 
  #gingerbread-text {
   position: absolute;
   font-size: 150%;
-  background-color: white;
-  width: 800px;
-  height: 80px; 
+  background-color: #c79d33;
+  color: white;
+  width: 700px;
+  height: 60px; 
   padding-top: 20px;
-  bottom: 65px;
-  left: 100px;
+  top: 585px;
+  left: 106px;
  }
+
+ #gingerbread-text-offer {
+  position: absolute;
+  font-size: 180%;
+  background-color: #c79d33;
+  color: white;
+  width: 800px;
+  height: 60px; 
+  padding-top: 20px;
+  bottom: 472px;
+  left: 603px;
+ }
+
 
  #gingerbread-text > h3 {
   text-align: center;
   font-family: Sansita, sans-serif;
  }
 
-
-
+ #gingerbread-text-offer > h4 {
+  text-align: center;
+  font-family: Sansita, sans-serif;
+ }
+ 
  .divider {
    height: 20px;
  }
@@ -129,32 +146,49 @@
   justify-content: row;
   text-align: center;
   row
- 
 }
 
 #opening-times {
   display: flex;
   flex: 50%;
-  padding: 10px;
   justify-content: column;
   flex-direction: column;
-  background-color: blue;
+  background-color: #dfc56d;
+  margin-left: 110px;
 }
 
 #opening-times-header > h2 {
   margin-bottom: 30px;
-  margin-top: 30px;
+  margin-top: 150px;
 }
 
 #list-align {
-  text-align: left;
-  margin-left: 180px;
-  font-size: 130%;
+  text-align: center;
+  margin-left: 10px;
+  font-size: 140%;
 }
 
 .list-spacing {
 margin-bottom: 20px;
 }
+
+ul{
+  list-style: none;
+}
+
+#coffee {
+  display: flex;
+  flex: 50%;
+  /* padding: 5px; */
+}
+
+ #coffee img {
+  /* width: 8%; */
+  height: 600px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: 110px;
+ }
 
 #table-container {
   width: 90%;
@@ -178,6 +212,10 @@ margin-bottom: 20px;
   padding: 20px;
 }
 
+#table-header-font {
+  font-size: 80%;
+}
+
 th, td {
   padding: 10px;
   text-align: center;
@@ -191,14 +229,3 @@ th, td {
   background-color: #FAF2ED;
 }
 
-#coffee {
-  display: flex;
-  width: 50%;
-  padding: 10px;
-}
-
- #coffee img {
-  width: 70%;
-  height: 600px;
-  margin-left: 120px;
- }
