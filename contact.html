@@ -37,9 +37,43 @@
 </header>
 <!--Section 2: Enquiry Form-->
 <body>
-    <form>
-        
-    </form>
+    <header id="bespoke-header-container">
+        <div id="bespoke-header">
+             <h2> Bespoke Cakes Enquiry Form </h2>
+            </div>
+         </header>
+         <hr class="divider">
+          <section id="form-container">
+            <div id="form-content">
+                <form action="https://mail.google.com/mail/u/0/#inbox" method="post" class="form-style">
+                    <ul id="form-list">
+                        <li><label for="name-form" required> Name: </label>
+                            <input id="name-form" type="text" name="name-form" placeholder="Your Name"> </li>
+                            <li>  <label for="email-form" required> E-mail: </label>
+                                <input id="email-form" type="email" name="email-form" placeholder="Your Email"> </li>
+                            <li>  <label for="date-form" required> Number: </label>
+                                <input id="number-form" type="number" name="number-form" placeholder="Your Number"> </li>
+                            <li>  <label for="number-form" required> Date: </label>
+                                <input id="date-form" type="date" name="date-form" placeholder="dd/mm/yyyy"></li>
+                            <li> <input type="radio" id="birthday" name="event" value="birthday">
+                                <label for="birthday">Birthday</label> </li>
+                            <li>  <input type="radio" id="wedding" name="event" value="wedding">
+                                <label for="wedding">Wedding</label></li>
+                            <li><input type="radio" id="anniversary" name="event" value="anniversary">
+                                <label for="anniversary">Anniversary</label></li>
+                            <li>  <input type="radio" id="bridal-shower" name="event" value="bridal-shower">
+                                <label for="bridal-shower">Bridal Shower</label> </li>
+                            <li> <input type="radio" id="hen-do" name="event" value="hen-do">
+                                <label for="hen-do">Hen Do</label> </li>
+                            <li> <input type="radio" id="other" name="event" value="other">
+                                <label for="other">Other</label> </li>
+                            <li>  <label for="other-text"> Please specify other in more detail: </label>
+                                <textarea name="other-text" id="other-text" placeholder="Event & any themes" rows="5" cols="20">
+                                </textarea> </li>
+                            </ul>
+            </form>
+        </div>
+         </section> 
 <!--Section 3: Footer-->
 <hr class="divider">
 <footer id="container-footer">
