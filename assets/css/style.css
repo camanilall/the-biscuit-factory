@@ -410,6 +410,7 @@ height: 400px;
 #form-list {
   margin-left: 80px;
   padding: 20px;
+  width: 100%;
 }
 
 #form-list li {

@@ -47,15 +47,15 @@
             <div id="form-content">
                 <form action="https://mail.google.com/mail/u/0/#inbox" method="post" class="form-style">
                     <ul id="form-list">
-                        <li><label for="name-form" required> Name: </label>
-                            <input id="name-form" type="text" name="name-form" placeholder="Your Name"> </li>
-                            <li>  <label for="email-form" required> E-mail: </label>
-                                <input id="email-form" type="email" name="email-form" placeholder="Your Email"> </li>
-                            <li>  <label for="date-form" required> Number: </label>
-                                <input id="number-form" type="number" name="number-form" placeholder="Your Number"> </li>
-                            <li>  <label for="number-form" required> Date: </label>
-                                <input id="date-form" type="date" name="date-form" placeholder="dd/mm/yyyy"></li>
-                            <li> <input type="radio" id="birthday" name="event" value="birthday">
+                        <li><label for="name-form"> Name: </label>
+                            <input id="name-form" type="text" name="name-form" placeholder="Your Name" required> </li>
+                            <li>  <label for="email-form"> E-mail: </label>
+                                <input id="email-form" type="email" name="email-form" placeholder="Your Email" required> </li>
+                            <li>  <label for="date-form"> Number: </label>
+                                <input id="number-form" type="number" name="number-form" placeholder="Your Number" required> </li>
+                            <li>  <label for="number-form"> Date: </label>
+                                <input id="date-form" type="date" name="date-form" placeholder="dd/mm/yyyy" required></li>
+                            <li> <input type="radio" id="birthday" name="event" value="birthday" required>
                                 <label for="birthday">Birthday</label> </li>
                             <li>  <input type="radio" id="wedding" name="event" value="wedding">
                                 <label for="wedding">Wedding</label></li>
@@ -70,6 +70,7 @@
                             <li>  <label for="other-text"> Please specify other in more detail: </label>
                                 <textarea name="other-text" id="other-text" placeholder="Event & any themes" rows="5" cols="20">
                                 </textarea> </li>
+                            <li> <input type="submit" value="Submit"></li>
                             </ul>
             </form>
         </div>
