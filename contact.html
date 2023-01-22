@@ -48,13 +48,13 @@
                 <form action="https://mail.google.com/mail/u/0/#inbox" method="post" class="form-style">
                     <ul id="form-list">
                         <li><label for="name-form"> Name: </label>
-                            <input id="name-form" type="text" name="name-form" placeholder="Your Name" required> </li>
+                            <input id="name-form" type="text" name="name-form" placeholder="Your Name" required class="form-width"> </li>
                             <li>  <label for="email-form"> E-mail: </label>
-                                <input id="email-form" type="email" name="email-form" placeholder="Your Email" required> </li>
+                                <input id="email-form" type="email" name="email-form" placeholder="Your Email" required class="form-width"> </li>
                             <li>  <label for="date-form"> Number: </label>
-                                <input id="number-form" type="number" name="number-form" placeholder="Your Number" required> </li>
+                                <input id="number-form" type="number" name="number-form" placeholder="Your Number" required class="form-width"> </li>
                             <li>  <label for="number-form"> Date: </label>
-                                <input id="date-form" type="date" name="date-form" placeholder="dd/mm/yyyy" required></li>
+                                <input id="date-form" type="date" name="date-form" placeholder="dd/mm/yyyy" required class="form-width"></li>
                             <li> <input type="radio" id="birthday" name="event" value="birthday" required>
                                 <label for="birthday">Birthday</label> </li>
                             <li>  <input type="radio" id="wedding" name="event" value="wedding">
@@ -67,10 +67,10 @@
                                 <label for="hen-do">Hen Do</label> </li>
                             <li> <input type="radio" id="other" name="event" value="other">
                                 <label for="other">Other</label> </li>
-                            <li>  <label for="other-text"> Please specify other in more detail: </label>
-                                <textarea name="other-text" id="other-text" placeholder="Event & any themes" rows="5" cols="20">
+                            <li>  <label for="other-text" class="form-width"> Please specify other in more detail: </label>
+                                <textarea name="other-text" id="other-text" placeholder="Event & any themes" rows="5" cols="20" class="form-width">
                                 </textarea> </li>
-                            <li> <input type="submit" value="Submit"></li>
+                            <li> <input type="submit" value="Submit" id="submit"></li>
                             </ul>
             </form>
         </div>
