@@ -275,6 +275,8 @@ width: 86.5%;
 height: 400px;
 }
 
+/* Styling the Footer */
+
 #container-footer {
   display: flex;
   justify-content: center;
@@ -319,7 +321,7 @@ height: 400px;
   justify-content: center;
   background-color: #B67F5F;
   width: 70%;
-  margin-left: 230px;
+  margin: auto;
   color: white;
 }
 
@@ -357,6 +359,8 @@ height: 400px;
   display: flex;
   justify-content: center;
   background-color: #FAF2ED;
+  margin: auto;
+  width: 70%;
 }
 
 #table-align-cake {
@@ -411,7 +415,6 @@ height: 400px;
 #form-list {
   margin-left: 80px;
   padding: 20px;
-  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -433,4 +436,17 @@ height: 400px;
   font-family: Sansita, sans-serif;
   border: 2px solid black;
   font-size: 100%;
+}
+
+/* Media Queries to adjust for different screen sizes */
+
+@media screen and (max-width:1200px) {
+
+ #table-container-cake td {
+    display: block;
+    }
+ 
+/* #footer li{
+  display: block;
+} */
 }
