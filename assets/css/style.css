@@ -275,45 +275,6 @@ width: 86.5%;
 height: 400px;
 }
 
-/* Styling the Footer */
-
-#container-footer {
-  display: flex;
-  justify-content: center;
-}
-
-#footer {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  background-color: black;
-  color: white;
-  height: 100px;
-  width: 100%;
-}
-
-#footer li {
-  display: inline;
-  font-size: 105%;
-  margin: 20px;
-}
-
-#footer ul {
-  margin-bottom: 15px;
-}
-
-#footer a {
-  text-decoration: none;
-  color: white;
-}
-
-#footer h2 {
-  display:flex;
-  align-items: center;
-  justify-content: center;
-  padding: 10px;
-}
 
 /* Styling the Cakes page */
 #cake-header-container {
@@ -438,15 +399,73 @@ height: 400px;
   font-size: 100%;
 }
 
+/* Styling the Footer */
+
+#container-footer {
+  display: flex;
+  justify-content: center;
+}
+
+#footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  height: 100px;
+  width: 100%;
+}
+
+#footer li {
+  display: inline;
+  font-size: 105%;
+  margin: 20px;
+}
+
+#footer ul {
+  margin-bottom: 15px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: white;
+}
+
+#footer h2 {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+
+
 /* Media Queries to adjust for different screen sizes */
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width: 1200px) {
 
  #table-container-cake td {
     display: block;
     }
+
+  #footer {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
  
-/* #footer li{
-  display: block;
-} */
 }
+
+@media screen and (max-width: 850px) {
+
+   #footer li{
+    display: block;
+    margin: 0px;
+    clear: both;
+   }
+
+   #footer {
+    height:180px;
+   }
+
+ }
