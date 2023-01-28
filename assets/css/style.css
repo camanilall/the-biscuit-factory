@@ -1,69 +1,64 @@
 @import url('https://fonts.googleapis.com/css2?family=Sansita&family=Viga&display=swap');
 * {
-    margin:0;
-    padding: 0;
-    border: none; 
+  margin:0;
+  padding: 0;
+  border: none; 
  }
 
  body {
-    font-family: Sansita, sans-serif;
-    background-color: #FAF2ED;
+  font-family: Sansita, sans-serif;
+  background-color: #FAF2ED;
  }
 
  h1, h2 {
-    font-family: Viga, sans-serif;
-    text-transform: uppercase;
+  font-family: Viga, sans-serif;
+  text-transform: uppercase;
  }
-
- /* Creating Logo and Header Styles on Homepage */
-
+ /* Creating Logo and Header Styles */
 #header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
 }
 
 #header li {
-    display: inline-block;
-    padding-right: 30px;
+  display: inline-block;
+  padding-right: 30px;
 }
 
 #header h2 {
-    word-spacing: 10px;
-    font-size: 150%;
+  word-spacing: 10px;
+  font-size: 150%;
 }
 
-
  #logo{
-    height: 130px;
-    padding: 20px;
+  height: 130px;
+  padding: 20px;
  }
  
  #homepage-links {
-    list-style: none;
-    font-size: 100%;
-    color: black;
+  list-style: none;
+  font-size: 100%;
+  color: black;
  }
-
 
  #homepage-links a {
-    text-decoration: none;
-    color: black;
-    display: flex;
-
+  text-decoration: none;
+  color: black;
+  display: flex;
  }
-
+ /* Homepage: Styling Gingerbread Image */
  #gingerbread {
-    display: flex;
-   flex-direction: column;
-   align-items: center; 
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
  }
 
  #gingerbread img {
-   height: 490px;
-   width: 86%;
+  height: 490px;
+  width: 86%;
  }
 
  #gingerbread-text {
@@ -73,9 +68,9 @@
   color: white;
   width: 700px;
   height: 60px; 
-  padding-top: 20px;
-  top: 585px;
-  left: 106px;
+  padding: 20px 0 0 0;
+  top: 602px;
+  left: 107px;
  }
 
  #gingerbread-text-offer {
@@ -85,11 +80,10 @@
   color: white;
   width: 800px;
   height: 60px; 
-  padding-top: 20px;
-  bottom: 472px;
+  padding: 20px 0 0 0;
+  bottom: 543px;
   left: 603px;
  }
-
 
  #gingerbread-text > h3 {
   text-align: center;
@@ -100,9 +94,9 @@
   text-align: center;
   font-family: Sansita, sans-serif;
  }
- 
+ /* Homepage: Styling Welcome Box */
  .divider {
-   height: 20px;
+  height: 20px;
  }
 
  #container {
@@ -111,32 +105,30 @@
 }
 
  #welcome-box {
-   display: flex;
-   justify-content: center;
-   flex-direction: column;
-   align-items: center;
-   color: white;
-   background-color:#B67F5F;
-   height: 100px;
-   width: 80%;
-   padding: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  background-color:#B67F5F;
+  height: 100px;
+  width: 86%;
+  padding: 40px 0;
  }
 
  #welcome-box h2, p {
-   text-align: center;
-   width: 80%;
- }
-
- #welcome-box p {
-   font-size: 120%;
+  text-align: center;
+  width: 80%;
  }
 
  #welcome-box h2{
   margin-bottom: 10px;
  }
- 
- /* Styling images and opening times banner on Homepage */
- 
+
+ #welcome-box p {
+  font-size: 120%;
+ }
+ /* Homepage: Opening Times and Coffee Image */
 #container-coffee {
   display: flex;
   justify-content: row;
@@ -183,9 +175,11 @@ ul{
   margin-right: 110px;
  }
 
+  /* Homepage: Table of Prices*/
 #table-container {
-  width: 85.5%;
-  margin-left: 110px;
+  width: 86%;
+  margin-left: auto;
+  margin-right: auto;
   background-color: #B67F5F;
   margin-top: 20px;
 }
@@ -271,7 +265,7 @@ th, td {
 }
 
 #maps iframe {
-width: 86.5%;
+width: 86%;
 height: 400px;
 }
 
