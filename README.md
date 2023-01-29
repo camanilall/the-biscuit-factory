@@ -5,8 +5,7 @@
 <h2> What is the purpose? </h2>
 The Biscuit Factory website was created to attract new customers to a new vegan, dairy-free and gluten-free bakery in Notting Hill.
 
-The aim is to give customers who have food intolerances an opportunity to have similiar baked goods to what you would find in a high quality bakery in 
-London. 
+The aim is to give customers who have food intolerances an opportunity to have similiar baked goods to what you would find in a high quality bakery in London. 
 
 The website also details the price of the baked goods on offer this week to show that the goods are affordable and help promote the image of inclusivity in baking. 
 
@@ -127,7 +126,6 @@ Wireframe 3 (add links)
 
 ![image](https://user-images.githubusercontent.com/122119585/215336740-2bcc0776-961f-480d-9cb2-c011960d63a2.png)
 
-<<<<<<< HEAD
 Colour 1: Hex Code #c79d33
 Colour 2: Hex Code #b67f5f
 Colour 3: Hex Code #dfc56d
@@ -136,12 +134,25 @@ Colour 5: Hex Code #020202
 
 Colour 4 was the background of the website and the colours are supposed to represent the colour of baked goods to give a bakery feel to the page. I also used a shade of white with Hex Code #f5f5f5 for the font colour across the website to contrast with the background colours.
 
+I used <a href=https://coolors.co/ target="_blank" rel="noopener" aria-label="Link to Coolors"> Coolors</a> to play around with different colour palettes to find shades I thought worked well together. 
+
 <h2> Fonts </h2>
 
+Fonts were found by Google Fonts, where Viga was used for headers and Sansita was used for the body of the text. These fonts work well together.
+
+<h2> Logo </h2>
+
+The logo was created using a template from <a href=https://www.canva.com/ target="_blank" rel="noopener" aria-label="Link to Canva">Canva</a> The reason of including a logo was to give the website a more professional look.
+
+<h1> Future Features</h1>
+
+Future features I would include in 
 
 
-=======
->>>>>>> 126c5456ab9b64a04288b4db124de11e51289c84
+
+
+
+
 
 
 
