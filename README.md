@@ -142,6 +142,8 @@ Fonts were found by Google Fonts, where Viga was used for headers and Sansita wa
 
 <h2> Logo </h2>
 
+![image](https://user-images.githubusercontent.com/122119585/215339622-ad4e3c0a-a7a9-4fae-9db0-83c02b034e87.png)
+
 The logo was created using a template from <a href=https://www.canva.com/ target="_blank" rel="noopener" aria-label="Link to Canva">Canva</a> The reason of including a logo was to give the website a more professional look.
 
 <h1> Future Features</h1>
