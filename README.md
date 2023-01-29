@@ -127,6 +127,7 @@ Wireframe 3 (add links)
 
 ![image](https://user-images.githubusercontent.com/122119585/215336740-2bcc0776-961f-480d-9cb2-c011960d63a2.png)
 
+<<<<<<< HEAD
 Colour 1: Hex Code #c79d33
 Colour 2: Hex Code #b67f5f
 Colour 3: Hex Code #dfc56d
@@ -139,6 +140,8 @@ Colour 4 was the background of the website and the colours are supposed to repre
 
 
 
+=======
+>>>>>>> 126c5456ab9b64a04288b4db124de11e51289c84
 
 
 
