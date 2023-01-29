@@ -115,6 +115,18 @@ The form details all the relevant fields including name, number and e-mail and t
 
 <h1> Skeleton Plane </h1>
 
+To construct the website I firstly designed three wireframes attached below:
+
+Wireframe 1 (add links)
+Wireframe 2 (add links)
+Wireframe 3 (add links)
+
+<h1> Surface Plane </h1>
+
+<h2> Colour Palette </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215336740-2bcc0776-961f-480d-9cb2-c011960d63a2.png)
+
 
 
 
