@@ -101,6 +101,23 @@ This gives customers an understanding of what is on offer on the menu this week 
 
 The two customers review encourage new customers to try the bakery as they re-iterate the idea that the bakery will be a positive experience. The Google map pin points exactly where the bakery is located answering a key user requirement.
 
+<h2> Cakes Page </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215329587-03713e43-60aa-4f94-9cee-66dc6f807dff.png)
+
+The 'Bespoke Cake Creation' box gives users an introduction to the gallery below of previous cake creations. The enquiry form button in yellow easily navigates you to the form on the 'Contact' Page.
+
+<h2> Contact Page </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215329950-836bf4bd-2ddf-48c8-9613-3c3e25fbb9cc.png)
+
+The form details all the relevant fields including name, number and e-mail and type of event to fill out to make an enquiry. Each field needs to be filled out to be able to submit. 
+
+<h1> Skeleton Plane </h1>
+
+
+
+
 
 
 
