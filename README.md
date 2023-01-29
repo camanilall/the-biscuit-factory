@@ -72,4 +72,21 @@ The website is split into three key sections: the Homepage; the Cakes page; the 
 The Navigation bar sits across the all three pages and gives users the ability to flick easily between pages. This is through using the 'The Biscuit Factory' logo or the 'Home' icon which links back to the homepage aswell as the 'Cakes' and 'Contact' icons which link to the Cakes gallery and enquiry form respectively.
  
  <h2> Homepage </h2>
+
+ ![image](https://user-images.githubusercontent.com/122119585/215326073-18616e24-548b-4f1c-8b9f-4e2af2468cd9.png)
+ 
+The image at the start of the homepage immediately triggers in the users mind that the website is about baked goods. The banners in yellow help to make clear to the user that the website is for 'London's Newest Vegan, Dairy-Free & Gluten-Free Bakery'. The offer in the top right hand corner is to entice users that they could save money visiting here and encourage them to scroll down.
+
+<h2> Welcome & Opening Times Information </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215326286-808b3b7c-a5b4-4c2e-b70c-570b8c1722cd.png)
+
+The Welcome banner in brown helps customers to understand that the Bakery is located in Notting Hill. The information box in yellow details the opening times and additional key information that the user would expect to be clarified in the website including whether pets are welcome and that there is a hot/cold drinks selection. The image on the right hand side is to show the user that what the look of the baked goods/drinks so they understand what to expect.
+
+
+
+
+ 
+ 
+
   
