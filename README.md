@@ -1,108 +1,133 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1> The Biscuit Factory </h1>
 
-Welcome camanilall,
+(Insert screen shot from ami.responsive website)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+<h2> What is the purpose? </h2>
+The Biscuit Factory website was created to attract new customers to a new vegan, dairy-free and gluten-free bakery in Notting Hill.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+The aim is to give customers who have food intolerances an opportunity to have similiar baked goods to what you would find in a high quality bakery in 
+London. 
 
-## Gitpod Reminders
+The website also details the price of the baked goods on offer this week to show that the goods are affordable and help promote the image of inclusivity in baking. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The website also has all the key information needed for potential customers to access the shop including knowledge that hot/cold drinks are served, opening times and an interactive map to identify exactly where the store is located.
 
-`python3 -m http.server`
+The website also gives users the opportunity to purchase vegan, dairy-free and gluten-free celebration cakes (via the form page). The gallery page gives users the opportunity to see examples of what has already been created for previous customers.
 
-A blue button should appear to click: _Make Public_,
+<h1> User Experience </h1>
+The website was planning in 5 overlapping stages:
 
-Another blue button should appear to click: _Open Browser_.
+<ul>
+  <li> Strategy Plane: combining design and business strategy; </li>
+  <li> Scope Plane: user requirements; </li>
+  <li> Structure Plane: understanding how the layout of the 3 pages; </li>
+  <li> Skeleton Plane: wireframe creation; </li>
+  <li> Surface Plane: font and colour choice to enhance website. </li>
+ </ul>
+  
+<h1> Strategy Plane </h1>
+ 
+<h2> Design Strategy </h2>
+To create a website that immediately let's users know the purpose is to attract them to a  new vegan, dairy-free and gluten-free bakery.
+ 
+Execution: this is shown through the choice of baked good colours (browns/yellow tones) and clear yellow banners on the Homepage to sign-post the user and entice them with a weekly offer.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+<h2> Business Strategy </h2>
+The target audience is users who suffer from either allergies or intolerances and want to purchase affordable baked goods as well as celebration cakes. 
+ 
+Execution: The website is supposed to give the feel of a neighbourhood friendly bakery to attract and retain a large customer base which produces regular repeat business. This is not only from the sale of baked goods and cakes but also hot/cold drinks.
+ 
+<h1> Scope Plane </h1>
 
-A blue button should appear to click: _Make Public_,
+<h2> User Stories </h2>
+<ul>
+  <li> As a user I want to be able to immediately understand what is the purpose of the website. </li>
+  <li> As a user I want to be able to navigate easily through the website, with all content being readable. </li>
+  <li> As a user I want to understand where the bakery is located.</li>
+  <li> As a user I want to understand the prices of all the baked goods on offer. </li>
+  <li> As a user I want to know the opening hours. </li>
+  <li> As a user I want to know the baked goods/celebration cakes look like to understand what I am purchasing. </li>
+  <li> As a user I want to know how to contact the bakery. </li>
+  <li> As a user I want to know how if they have a social media prescence to browse more content. </li>
+  <li> As a user I want to know if I can bring my dog. </li>
+ </ul>
+ 
+ <h2> Owner Stories </h2>
+<ul>
+  <li> As the owner I want users to be able to easily navigate through the website. </li>
+  <li> As the owner I want the first impression to be clear that the website is a bakery. </li>
+  <li> As the owner I want the gallery page to entince users to fill in a enquiry form for celebration cakes.</li>
+  <li> As the owner I want the customer review section on the homepage to confirm credibility for new potential customers.</li>
+</ul>
+ 
+ 
+<h1> Structure Plane </h1>
 
-Another blue button should appear to click: _Open Browser_.
+The website is split into three key sections: the Homepage; the Cakes page; the Contact page.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+<h2> Navigation </h2>
 
-To log into the Heroku toolbelt CLI:
+![image](https://user-images.githubusercontent.com/122119585/215325637-238c2c12-c142-4ddf-aeae-61f41edd3826.png)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The Navigation bar sits across the all three pages and gives users the ability to flick easily between pages. This is through using the 'The Biscuit Factory' logo or the 'Home' icon which links back to the homepage aswell as the 'Cakes' and 'Contact' icons which link to the Cakes gallery and enquiry form respectively.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+<h2> Footer </h2>
 
-------
+![image](https://user-images.githubusercontent.com/122119585/215328732-1ef9484d-6fb9-4057-9436-83032430c507.png)
 
-## Release History
+The Footer bar sits across all three pages and gives the user key contact information, both a telephone number and e-mail. The footer also includes social media links to a Facebook, Instagram and Twitter pages. Icons have been included from font awesome to make it immediately clear to the user the purpose of the footer and what each link will navigate to.
+ 
+ <h2> Homepage </h2>
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+ ![image](https://user-images.githubusercontent.com/122119585/215326073-18616e24-548b-4f1c-8b9f-4e2af2468cd9.png)
+ 
+The image at the start of the homepage immediately triggers in the users mind that the website is about baked goods. The banners in yellow help to make clear to the user that the website is for 'London's Newest Vegan, Dairy-Free & Gluten-Free Bakery'. The offer in the top right hand corner is to entice users that they could save money visiting here and encourage them to scroll down.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+<h2> Welcome & Opening Times </h2>
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+![image](https://user-images.githubusercontent.com/122119585/215326286-808b3b7c-a5b4-4c2e-b70c-570b8c1722cd.png)
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+The Welcome banner in brown helps customers to understand that the Bakery is located in Notting Hill. The information box in yellow details the opening times and additional key information that the user would expect to be clarified in the website including whether pets are welcome and that there is a hot/cold drinks selection. The image on the right hand side is to show the user that what the look of the baked goods/drinks so they understand what to expect. The colour choice between the 'Welcome Box' and 'Opening Times & Key Information' is to highlight each section individually and break information into different sections to enhance user experience.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+<h2> Weekly Specials </h2>
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+![image](https://user-images.githubusercontent.com/122119585/215327660-66cedf17-1357-47f2-8ede-cefc5928e6f4.png)
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+This gives customers an understanding of what is on offer on the menu this week with all the prices see if they are interested in any of the goods and they are in the customers' price range. The colour contrast between the rows is to increase readability of the table.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+<h2> Customer Reviews & Map </h2>
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+![image](https://user-images.githubusercontent.com/122119585/215327901-fb782a6c-0ec4-41ad-8cb5-daae2ba6efec.png)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+The two customers review encourage new customers to try the bakery as they re-iterate the idea that the bakery will be a positive experience. The Google map pin points exactly where the bakery is located answering a key user requirement.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+<h2> Cakes Page </h2>
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+![image](https://user-images.githubusercontent.com/122119585/215329587-03713e43-60aa-4f94-9cee-66dc6f807dff.png)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+The 'Bespoke Cake Creation' box gives users an introduction to the gallery below of previous cake creations. The enquiry form button in yellow easily navigates you to the form on the 'Contact' Page.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+<h2> Contact Page </h2>
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+![image](https://user-images.githubusercontent.com/122119585/215329950-836bf4bd-2ddf-48c8-9613-3c3e25fbb9cc.png)
 
-------
+The form details all the relevant fields including name, number and e-mail and type of event to fill out to make an enquiry. Each field needs to be filled out to be able to submit. 
 
-## FAQ about the uptime script
+<h1> Skeleton Plane </h1>
 
-**Why have you added this script?**
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
 
-**How will this affect me?**
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
+  
+ 
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+ 
+ 
 
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+  
