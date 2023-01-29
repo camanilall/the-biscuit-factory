@@ -43,24 +43,33 @@ Execution: The website is supposed to give the feel of a neighbourhood friendly 
 <ul>
   <li> As a user I want to be able to immediately understand what is the purpose of the website. </li>
   <li> As a user I want to be able to navigate easily through the website, with all content being readable. </li>
-  <li> As a user I want to understand where the shop is located.</li>
+  <li> As a user I want to understand where the bakery is located.</li>
   <li> As a user I want to understand the prices of all the baked goods on offer. </li>
   <li> As a user I want to know the opening hours. </li>
   <li> As a user I want to know the baked goods/celebration cakes look like to understand what I am purchasing. </li>
-  <li> As a user I want to know how to contact the shop. </li>
+  <li> As a user I want to know how to contact the bakery. </li>
   <li> As a user I want to know how if they have a social media prescence to browse more content. </li>
   <li> As a user I want to know if I can bring my dog. </li>
  </ul>
  
  <h2> Owner Stories </h2>
 <ul>
-  <li> As a user I want to be able to immediately understand what is the purpose of the website. </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> As the owner I want users to be able to easily navigate through the website. </li>
+  <li> As the owner I want the first impression to be clear that the website is a bakery. </li>
+  <li> As the owner I want the gallery page to entince users to fill in a enquiry form for celebration cakes.</li>
+  <li> As the owner I want the customer review section on the homepage to confirm credibility for new potential customers.</li>
 </ul>
  
  
-  
+<h1> Structure Plane </h1>
+
+The website is split into three key sections: the Homepage; the Cakes page; the Contact page.
+
+<h2> Navigation </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215325637-238c2c12-c142-4ddf-aeae-61f41edd3826.png)
+
+The Navigation bar sits across the all three pages and gives users the ability to flick easily between pages. This is through using the 'The Biscuit Factory' logo or the 'Home' icon which links back to the homepage aswell as the 'Cakes' and 'Contact' icons which link to the Cakes gallery and enquiry form respectively.
+ 
+ <h2> Homepage </h2>
   
