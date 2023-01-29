@@ -146,7 +146,11 @@ The logo was created using a template from <a href=https://www.canva.com/ target
 
 <h1> Future Features</h1>
 
-Future features I would include in 
+Future features I would include in the next sprint of the website design:
+<ul>
+<li> A new page titled 'Veganism' with an embedded video of the benefits of Veganism to help customers understand how switching to more vegan friendly purchases can help the environment. </li>
+<li> A new page on 'Events' and detailing baking classes that the Biscuit Factory are going to hold.</li>
+</ul>
 
 
 
