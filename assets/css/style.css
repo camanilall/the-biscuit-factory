@@ -41,12 +41,12 @@
  #homepage-links {
   list-style: none;
   font-size: 100%;
-  color: black;
+  color: #020202;
  }
 
  #homepage-links a {
   text-decoration: none;
-  color: black;
+  color: #020202;
   display: flex;
  }
  /* Homepage: Styling Gingerbread Image */
@@ -389,7 +389,7 @@ height: 400px;
   background-color:#B67F5F;
   color: white;
   font-family: Sansita, sans-serif;
-  border: 2px solid black;
+  border: 2px solid #020202;
   font-size: 100%;
 }
 
@@ -405,7 +405,7 @@ height: 400px;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-color: black;
+  background-color: #020202;
   color: white;
   height: 100px;
   width: 100%;
