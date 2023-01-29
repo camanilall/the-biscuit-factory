@@ -22,7 +22,8 @@ The website was planning in 5 overlapping stages:
   <li> Scope Plane: user requirements; </li>
   <li> Structure Plane: understanding how the layout of the 3 pages; </li>
   <li> Skeleton Plane: wireframe creation; </li>
-  <li> Surface Plane: font and colour choice to enhance website </li>
+  <li> Surface Plane: font and colour choice to enhance website. </li>
+ </ul>
   
 <h1> Strategy Plane </h1>
  
@@ -30,13 +31,35 @@ The website was planning in 5 overlapping stages:
 To create a website that immediately let's users know the purpose is to attract them to a  new vegan, dairy-free and gluten-free bakery.
  
 Execution: this is shown through the choice of baked good colours (browns/yellow tones) and clear yellow banners on the Homepage to sign-post the user and entice them with a weekly offer.
- 
+
 <h2> Business Strategy </h2>
 The target audience is users who suffer from either allergies or intolerances and want to purchase affordable baked goods as well as celebration cakes. 
  
 Execution: The website is supposed to give the feel of a neighbourhood friendly bakery to attract and retain a large customer base which produces regular repeat business. This is not only from the sale of baked goods and cakes but also hot/cold drinks.
  
 <h1> Scope Plane </h1>
+
+<h2> User Stories </h2>
+<ul>
+  <li> As a user I want to be able to immediately understand what is the purpose of the website. </li>
+  <li> As a user I want to be able to navigate easily through the website, with all content being readable. </li>
+  <li> As a user I want to understand where the shop is located.</li>
+  <li> As a user I want to understand the prices of all the baked goods on offer. </li>
+  <li> As a user I want to know the opening hours. </li>
+  <li> As a user I want to know the baked goods/celebration cakes look like to understand what I am purchasing. </li>
+  <li> As a user I want to know how to contact the shop. </li>
+  <li> As a user I want to know how if they have a social media prescence to browse more content. </li>
+  <li> As a user I want to know if I can bring my dog. </li>
+ </ul>
+ 
+ <h2> Owner Stories </h2>
+<ul>
+  <li> As a user I want to be able to immediately understand what is the purpose of the website. </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ul>
  
  
   
