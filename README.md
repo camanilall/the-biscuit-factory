@@ -70,6 +70,12 @@ The website is split into three key sections: the Homepage; the Cakes page; the 
 ![image](https://user-images.githubusercontent.com/122119585/215325637-238c2c12-c142-4ddf-aeae-61f41edd3826.png)
 
 The Navigation bar sits across the all three pages and gives users the ability to flick easily between pages. This is through using the 'The Biscuit Factory' logo or the 'Home' icon which links back to the homepage aswell as the 'Cakes' and 'Contact' icons which link to the Cakes gallery and enquiry form respectively.
+
+<h2> Footer </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215328732-1ef9484d-6fb9-4057-9436-83032430c507.png)
+
+The Footer bar sits across all three pages and gives the user key contact information, both a telephone number and e-mail. The footer also includes social media links to a Facebook, Instagram and Twitter pages. Icons have been included from font awesome to make it immediately clear to the user the purpose of the footer and what each link will navigate to.
  
  <h2> Homepage </h2>
 
@@ -77,11 +83,29 @@ The Navigation bar sits across the all three pages and gives users the ability t
  
 The image at the start of the homepage immediately triggers in the users mind that the website is about baked goods. The banners in yellow help to make clear to the user that the website is for 'London's Newest Vegan, Dairy-Free & Gluten-Free Bakery'. The offer in the top right hand corner is to entice users that they could save money visiting here and encourage them to scroll down.
 
-<h2> Welcome & Opening Times Information </h2>
+<h2> Welcome & Opening Times </h2>
 
 ![image](https://user-images.githubusercontent.com/122119585/215326286-808b3b7c-a5b4-4c2e-b70c-570b8c1722cd.png)
 
-The Welcome banner in brown helps customers to understand that the Bakery is located in Notting Hill. The information box in yellow details the opening times and additional key information that the user would expect to be clarified in the website including whether pets are welcome and that there is a hot/cold drinks selection. The image on the right hand side is to show the user that what the look of the baked goods/drinks so they understand what to expect.
+The Welcome banner in brown helps customers to understand that the Bakery is located in Notting Hill. The information box in yellow details the opening times and additional key information that the user would expect to be clarified in the website including whether pets are welcome and that there is a hot/cold drinks selection. The image on the right hand side is to show the user that what the look of the baked goods/drinks so they understand what to expect. The colour choice between the 'Welcome Box' and 'Opening Times & Key Information' is to highlight each section individually and break information into different sections to enhance user experience.
+
+<h2> Weekly Specials </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215327660-66cedf17-1357-47f2-8ede-cefc5928e6f4.png)
+
+This gives customers an understanding of what is on offer on the menu this week with all the prices see if they are interested in any of the goods and they are in the customers' price range. The colour contrast between the rows is to increase readability of the table.
+
+<h2> Customer Reviews & Map </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215327901-fb782a6c-0ec4-41ad-8cb5-daae2ba6efec.png)
+
+The two customers review encourage new customers to try the bakery as they re-iterate the idea that the bakery will be a positive experience. The Google map pin points exactly where the bakery is located answering a key user requirement.
+
+
+
+
+  
+ 
 
 
 
