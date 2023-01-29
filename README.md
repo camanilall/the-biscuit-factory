@@ -115,6 +115,30 @@ The form details all the relevant fields including name, number and e-mail and t
 
 <h1> Skeleton Plane </h1>
 
+To construct the website I firstly designed three wireframes attached below:
+
+Wireframe 1 (add links)
+Wireframe 2 (add links)
+Wireframe 3 (add links)
+
+<h1> Surface Plane </h1>
+
+<h2> Colour Palette </h2>
+
+![image](https://user-images.githubusercontent.com/122119585/215336740-2bcc0776-961f-480d-9cb2-c011960d63a2.png)
+
+Colour 1: Hex Code #c79d33
+Colour 2: Hex Code #b67f5f
+Colour 3: Hex Code #dfc56d
+Colour 4: Hex Code #faf2ed
+Colour 5: Hex Code #020202
+
+Colour 4 was the background of the website and the colours are supposed to represent the colour of baked goods to give a bakery feel to the page. I also used a shade of white with Hex Code #f5f5f5 for the font colour across the website to contrast with the background colours.
+
+<h2> Fonts </h2>
+
+
+
 
 
 
